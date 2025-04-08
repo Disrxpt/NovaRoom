@@ -1,2 +1,3 @@
 # NovaRoom
-Nova Room old RecNet emulator/mock server made to run old Rec Room builds.
+NovaRoom is a C# RecNet mock server for old Rec Room build functionality.
+> *NovaRoom is a locally hosted server, certain functionality won't be possible and some may take very long to make working!*
