@@ -7,10 +7,31 @@
         "screenSupport": false
     },
     {
+        "friendlyName": "July 27th, 2016",
+        "Tooltip": "Added the Dorm Room",
+        "patchType": 1,
+        "manifestId": "797475839536905254",
+        "screenSupport": false
+    },
+    {
+        "friendlyName": "August 24th, 2016",
+        "Tooltip": "Added new paintball map, cleaner than july, better shaders",
+        "patchType": 1,
+        "manifestId": "5360232407282512201",
+        "screenSupport": false
+    },
+    {
         "friendlyName": "September 21th, 2016",
-        "Tooltip": "More finished than June 28th, more activites, still no RecNet",
+        "Tooltip": "Better graphics, more activites, still no RecNet",
         "patchType": 1,
         "manifestId": "386252387837028876",
+        "screenSupport": false
+    },
+    {
+        "friendlyName": "October 6th, 2016",
+        "Tooltip": "New DormRoom layout, tutorial added, crash fixes",
+        "patchType": 1,
+        "manifestId": "1591673639619502502",
         "screenSupport": false
     }
 ]
