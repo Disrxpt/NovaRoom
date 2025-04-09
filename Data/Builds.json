@@ -3,6 +3,7 @@
         "friendlyName": "June 28th, 2016",
         "Tooltip": "First RecRoom version publically avalible on Steam",
         "patchType": 1,
-        "manifestId": "4180590405597713716"
+        "manifestId": "4180590405597713716",
+        "screenSupport": false
     }
 ]
