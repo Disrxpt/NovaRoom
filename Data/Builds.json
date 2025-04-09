@@ -35,10 +35,10 @@
         "screenSupport": false
     },
     {
-        "friendlyName": "October 18th, 2016",
-        "Tooltip": "First version with RecNet, not much change from october 6th, 2016",
-        "patchType": 20,
-        "manifestId": "5317305413924462757",
+        "friendlyName": "November 16th, 2016",
+        "Tooltip": "Early RecNet, Kiosk, some other updates, requires server!",
+        "patchType": 2,
+        "manifestId": "424546141649632564",
         "screenSupport": false
     }
 ]
