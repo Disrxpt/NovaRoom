@@ -34,4 +34,11 @@
         "manifestId": "1591673639619502502",
         "screenSupport": false
     }
+    {
+        "friendlyName": "October 18th, 2016",
+        "Tooltip": "First version with RecNet, not much change from october 6th, 2016",
+        "patchType": 2,
+        "manifestId": "5317305413924462757",
+        "screenSupport": false
+    },
 ]
