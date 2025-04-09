@@ -5,5 +5,12 @@
         "patchType": 1,
         "manifestId": "4180590405597713716",
         "screenSupport": false
-    }
+    },
+    {
+        "friendlyName": "September 8th, 2016",
+        "Tooltip": "More finished than June 28th, more activites, still no RecNet",
+        "patchType": 1,
+        "manifestId": "394935228226334493",
+        "screenSupport": false
+    },
 ]
