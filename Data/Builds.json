@@ -2,43 +2,79 @@
     {
         "friendlyName": "June 28th, 2016",
         "Tooltip": "First RecRoom version publically avalible on Steam",
-        "patchType": 1,
         "manifestId": "4180590405597713716",
-        "screenSupport": false
+        "screenSupport": false,
+        "private": false,
+        "requireDownload": false,
+        "unfriendlyVersionId": "06282016",
+        "isil2cpp": false,
+        "realtimePhoton": false,
+        "photonAppId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+        "photonVoiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
     },
     {
         "friendlyName": "July 27th, 2016",
         "Tooltip": "Added the Dorm Room",
-        "patchType": 1,
         "manifestId": "797475839536905254",
-        "screenSupport": false
+        "screenSupport": false,
+        "private": false,
+        "requireDownload": false,
+        "unfriendlyVersionId": "07272016",
+        "isil2cpp": false,
+        "realtimePhoton": false,
+        "photonAppId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+        "photonVoiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
     },
     {
         "friendlyName": "August 24th, 2016",
         "Tooltip": "Added new paintball map, cleaner than july, better shaders",
-        "patchType": 1,
         "manifestId": "5360232407282512201",
-        "screenSupport": false
+        "screenSupport": false,
+        "private": false,
+        "requireDownload": false,
+        "unfriendlyVersionId": "08242016",
+        "isil2cpp": false,
+        "realtimePhoton": false,
+        "photonAppId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+        "photonVoiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
     },
     {
         "friendlyName": "September 21th, 2016",
         "Tooltip": "Better graphics, more activites, still no RecNet",
-        "patchType": 1,
         "manifestId": "386252387837028876",
-        "screenSupport": false
+        "screenSupport": false,
+        "private": false,
+        "requireDownload": false,
+        "unfriendlyVersionId": "09212016",
+        "isil2cpp": false,
+        "realtimePhoton": false,
+        "photonAppId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+        "photonVoiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
     },
     {
         "friendlyName": "October 6th, 2016",
         "Tooltip": "New DormRoom layout, tutorial added, crash fixes",
-        "patchType": 1,
         "manifestId": "1591673639619502502",
-        "screenSupport": false
+        "screenSupport": false,
+        "private": false,
+        "requireDownload": false,
+        "unfriendlyVersionId": "10062016",
+        "isil2cpp": false,
+        "realtimePhoton": false,
+        "photonAppId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+        "photonVoiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
     },
     {
         "friendlyName": "November 16th, 2016",
         "Tooltip": "Early RecNet, Kiosk, some other updates, requires server!",
-        "patchType": 2,
         "manifestId": "424546141649632564",
-        "screenSupport": false
+        "screenSupport": false,
+        "private": false,
+        "requireDownload": false,
+        "unfriendlyVersionId": "11162016",
+        "isil2cpp": false,
+        "realtimePhoton": false,
+        "photonAppId": "76e68452-1312-4a18-b8c5-0c7120bf1039",
+        "photonVoiceId": "fcb011fa-8f8a-474a-9c2d-af93ddb3a73a"
     }
 ]
